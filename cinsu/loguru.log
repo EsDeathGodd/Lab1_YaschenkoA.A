@@ -1,0 +1,4 @@
+2023-09-03 14:11:38.070 | INFO     | __main__:registerUser:21 - Login: login@mail.ru
+2023-09-03 14:11:38.072 | INFO     | __main__:registerUser:22 - Encoded password: b'!\xd0\x90\xd1\x80\xd1\x82\xd1\x83\xd1\x80251'
+2023-09-03 14:11:38.073 | INFO     | __main__:registerUser:23 - Encoded repeated password: b'!\xd0\x90\xd1\x80\xd1\x82\xd1\x83\xd1\x80251' Password matches!
+ The user above was successfully registered!
