@@ -28,4 +28,4 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 Please make sure to update tests as appropriate(!).
 
-P.S Все писал на английском, простите...
+P.S Все писал на английском, простите... (python 3.8+ required(must use 3.10 for match case to work iirc))
