@@ -44,7 +44,6 @@ def registerUser(login: str, password: str, repeatPassword: str) -> (str, str):
     
     
 
-print(registerUser("login@mail.ru","!Артур251","!Артур251")) # test
 
 
 
